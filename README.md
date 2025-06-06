@@ -1,8 +1,13 @@
 # LeCabot by phospho🧪
 
-phospho is introducing **LeCabot.** A mobile manipulator mod for the SO-100 robot arm and the Go2 robot dog, controlled with a Meta Quest thanks to [phosphobot.](https://github.com/phospho-app/phosphobot)
+<img src="https://github.com/user-attachments/assets/cac5608e-2efc-41de-a56b-d19545400388" width=400/> 
+
+**LeCabot** is a *mobile manipulator* mod for the **SO-100** robot arm and the **Go2** robot dog, controlled with a Meta Quest thanks to [**phosphobot**.](https://github.com/phospho-app/phosphobot)
 
 An open source and low cost alternative to Spot by Boston Dynamics.
+
+
+
 
 Star this repo and start building!
 
@@ -41,7 +46,7 @@ https://github.com/user-attachments/assets/81b7ce8c-6983-4b87-94b9-16b3c4670b92
 2. Attach the SO-100 mount to the Go2 using multiple cable zip ties tied together.
 3. Put the raspberry pi in the case.
 
-![mount](./images/assembly_1.jpeg)
+<img src="./images/assembly_1.jpeg" width=500/> 
 
 ## 2. Assemble the Battery pack
 
@@ -59,7 +64,8 @@ The battery pack in the bill of material is made for a 12V SO-100, and uses a co
 
 5. Once you tested that everything works well, use some good old duct tape to attach all the parts on the Go2.
 
-![battery](./images/assembly_2.jpeg)
+
+<img src="./images/assembly_2.jpeg" width=500/> 
 
 # Setup
 
@@ -77,11 +83,11 @@ The battery pack in the bill of material is made for a 12V SO-100, and uses a co
 
 5.  In the phosphobot dashboard, click in the top right on the robot head, then click on "Connect to another robot".
 
-    ![Connect](./images/connect_1.png)
+    <img src="./images/connect_1.png" width=500/> 
 
     Select Unitree Go2, then select or enter the IP address of the Unitree. Finally, click on the Add Robot button.
 
-    ![Connect](./images/connect_2.png)
+    <img src="./images/connect_2.png" width=500/> 
 
     > _Tip: The MAC address of the Unitree often starts with `78:22:88`. You can also use the Unitree mobile app to discover the IP and MAC address of your Go2. Make sure the Unitree remote controler and Unitree mobile app are disconnected._
 
