@@ -6,11 +6,7 @@ An open source and low cost alternative to Spot by Boston Dynamics.
 
 Star this repo and start building!
 
-
-
 https://github.com/user-attachments/assets/81b7ce8c-6983-4b87-94b9-16b3c4670b92
-
-
 
 # Bill of Materials
 
@@ -41,21 +37,19 @@ https://github.com/user-attachments/assets/81b7ce8c-6983-4b87-94b9-16b3c4670b92
 
 ## 1. Assemble the mount
 
-![mount](./images/assembly_1.jpeg)
-
 1. Attach the SO-100 to the SO-100 mount for the Go2 using the M5 30mm screws.
 2. Attach the SO-100 mount to the Go2 using multiple cable zip ties tied together.
 3. Put the raspberry pi in the case.
+
+![mount](./images/assembly_1.jpeg)
 
 ## 2. Assemble the Battery pack
 
 The battery pack in the bill of material is made for a 12V SO-100, and uses a converter to connect the raspberry pi to a 5V signal.
 
-![battery](./images/assembly_2.jpeg)
+1. Get **the 12V battery, the DC plug, the USB-C converter, and two lever wire connectors.**
 
-1. Get the battery, the DC plug, the USB-C converter, and two lever wire connectors.
-
-2. Plug the three black cables into a **lever wire connector.** Plug the three red cables into another other **lever wire connector.**
+2. Plug the three black cables into a **lever wire connector.** Plug the three red cables into another **lever wire connector.**
 
    > Caution: the metal parts of the wires must be in contact with the metal parts of the connectors! You may need to strip the wires.
 
@@ -64,6 +58,8 @@ The battery pack in the bill of material is made for a 12V SO-100, and uses a co
 4. Connect the SO-100 to the raspberry pi using the USB-C to USB-A cable.
 
 5. Once you tested that everything works well, use some good old duct tape to attach all the parts on the Go2.
+
+![battery](./images/assembly_2.jpeg)
 
 # Setup
 
