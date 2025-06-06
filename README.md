@@ -6,6 +6,12 @@ An open source and low cost alternative to Spot by Boston Dynamics.
 
 Star this repo and start building!
 
+
+
+https://github.com/user-attachments/assets/81b7ce8c-6983-4b87-94b9-16b3c4670b92
+
+
+
 # Bill of Materials
 
 | Part                                                                | Amount |                                Unit Cost (US)                                 | Buy (US)                                                                                                                                                                      | Unit Cost (EU) | Buy (EU)                                                                                                  | Unit Cost (CN) | Buy (CN)                                                                                                  |
