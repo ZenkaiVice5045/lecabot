@@ -4,7 +4,7 @@
 
 **LeCabot** is a *mobile manipulator* mod for the **SO-100** robot arm and the **Go2** robot dog, controlled with a Meta Quest thanks to [**phosphobot**.](https://github.com/phospho-app/phosphobot)
 
-An open source and low cost alternative to Spot by Boston Dynamics.
+An open source and low cost alternative to Spot by BostonDynamics.
 
 
 
